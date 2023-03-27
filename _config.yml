@@ -22,7 +22,7 @@ avatar_image: /img/Profile_Picture Cropped.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://https://www.linkedin.com/in/danielanjos/" # Add your linkedln handle
+linkedln: "https://linkedin.com/in/danielanjos/" # Add your linkedln handle
 github: "https://github.com/danielbrunoanjos"  # Add your github handle
 
 paginate: 6
